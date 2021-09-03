@@ -7,11 +7,11 @@ Visit the web app at https://vttu.shinyapps.io/LeagueofLosers/
 
 What you can do: 
 
-*Find a specific champion by their name with the dropdown menu 
+-Find a specific champion by their name with the dropdown menu 
 
-*Compare and contrast all champions against different statistics with their difficulty level
+-Compare and contrast all champions against their statistics and difficulty level, and being able to filter out different types of champions
 
-*Compare and contrast all champions against different abilities
+-Compare and contrast all champions against different abilities to see which champions have a higher statistic versus other champions that are the same type as them
 
 API used from
 https://developer.riotgames.com/docs/lol
