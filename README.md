@@ -1,6 +1,6 @@
 # LeagueofLosers
 
-This app scraps from the RIOT Developers API and returns useful information about League of Legends characters, called Champions. 
+This app uses dats from the RIOT Developers API and returns useful information about League of Legends characters, called Champions. 
 New and experienced players can use this app to compare and contrast all champions regarding skill level and basic stats.
 
 Visit the web app at https://vttu.shinyapps.io/LeagueofLosers/
